@@ -1,7 +1,7 @@
 {
-  "name": "juuust-vue-icon",
+  "name": "boxer-web-icon",
   "version": "0.1.4",
-  "description": "Juuust Vue Icon, Automation workflow with Figma",
+  "description": "Bobobooom",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
