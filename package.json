@@ -1,6 +1,6 @@
 {
   "name": "boxer-web-icon",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Bobobooom",
   "main": "bundle/index.common.js",
   "files": [
