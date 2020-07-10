@@ -11,7 +11,7 @@
       >
         <component
           :is="iconComponentName"
-          :size="36"
+          :size="72"
         />
         <div>{{iconComponentName}}</div>
       </li>
@@ -79,8 +79,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 120px;
-    height: 120px;
+    width: 240px;
+    height: 160px;
     padding: 20px;
     border-radius: 8px;
     cursor: pointer;
