@@ -79,8 +79,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 240px;
-    height: 160px;
+    width: 180px;
+    height: 148px;
     padding: 20px;
     border-radius: 8px;
     cursor: pointer;
