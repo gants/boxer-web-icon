@@ -57,22 +57,22 @@
     -webkit-box-sizing: border-box;
   }
   body{
-    font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
-    font-size: 16px;
+    font-family: "Roboto Mono", "Helvetica Neue", Arial, sans-serif;
+    font-size: 12px;
   }
   .container {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     width: 100%;
-    max-width: 1200px;
+    max-width: 1920px;
     margin: 0 auto;
-    padding: 15px;
+    padding: 16px;
   }
   .wrapper {
     list-style: none;
     display: flex;
     flex-flow: wrap;
     margin: 0;
-    padding: 15px 0;
+    padding: 16px 0;
   }
   .item {
     display: flex;
