@@ -57,11 +57,11 @@
     -webkit-box-sizing: border-box;
   }
   body{
-    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
     font-size: 16px;
   }
   .container {
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -79,10 +79,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 120px;
-    height: 120px;
+    width: 240px;
+    height: 240px;
     padding: 20px;
-    border-radius: 6px;
+    border-radius: 8px;
     cursor: pointer;
     color: #486491;
     transition: background-color 0.2s;
