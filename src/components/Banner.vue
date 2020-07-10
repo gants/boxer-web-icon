@@ -29,7 +29,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 720px;
+    max-width: 1920px;
   }
   .code div{
     width: 48%;
@@ -37,14 +37,14 @@
   pre{
     width: 100%;
     padding: 20px;
-    border-radius: 6px;
-    color: #476391;
-    background-color: #e7ecf3;
+    border-radius: 8px;
+    color: #4E6073;
+    background-color: #F5F6FA;
     overflow: auto;
   }
   h3{
     width: 100%;
-    max-width: 360px;
+    max-width: 960px;
     margin: 0 auto;
     padding: 10px 0;
   }
