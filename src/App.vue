@@ -59,6 +59,7 @@
   body{
     font-family: "Roboto Mono", "Helvetica Neue", Arial, sans-serif;
     font-size: 12px;
+    line-height:16px;
   }
   .container {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -80,7 +81,7 @@
     justify-content: center;
     align-items: center;
     width: 160px;
-    height: 112px;
+    height: 128px;
     padding: 16px;
     border-radius: 8px;
     cursor: pointer;
@@ -91,6 +92,6 @@
     background-color: #e7ecf3;
   }
   .item svg{
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
 </style>
