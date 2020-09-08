@@ -59,7 +59,6 @@
   body{
     font-family: "Roboto Mono", "Helvetica Neue", Arial, sans-serif;
     font-size: 12px;
-    line-height:16px;
   }
   .container {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
